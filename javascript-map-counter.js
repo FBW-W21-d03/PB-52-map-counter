@@ -5,5 +5,5 @@ ersteArray.map((betrag) => {
     sum += betrag;
 });
 
-console.log("Array zahlen \n",ersteArray,);
+console.log("Array zahlen \n",ersteArray);
 console.log("Summe die Array zahlen = ", sum);
